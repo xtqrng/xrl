@@ -1,0 +1,388 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+.shuicai{
+font-size: 0.8rem;
+left: 1rem;
+top: 0.8rem;
+position: absolute;
+}
+/* 第一页 */
+#page2{
+    background: url(../images/page2.jpg) center center no-repeat;
+    background-size: cover;
+}
+#page2{
+    position: relative;
+}
+#page2>img{
+    position: absolute;
+}
+.zuopinji{
+    width:5.6rem;
+    height:3.36rem;
+    left:1rem;
+    top:1.6rem;
+}
+.text1{
+    position:absolute;
+    font-size:0.32rem;
+    left:1.2rem;
+    bottom:3rem;
+    line-height:0.64rem;
+    color: lightslategray;
+    font-weight: bold;
+}
+p.one{
+    position:absolute; 
+    left:2.2rem;
+    bottom:5.56rem;
+}
+p.two{
+    position:absolute; 
+    left:2.2rem;
+    bottom:4.92rem;
+}
+p.three{
+    position:absolute; 
+    left:2.2rem;
+    bottom:4.28rem;
+}
+p.four{
+    position:absolute; 
+    left:2.8rem;
+    bottom:3.64rem;
+}
+p.five{
+    position:absolute; 
+    left:2.2rem;
+    bottom:3rem;
+}
+.text2{
+    font-size:0.32rem;
+    line-height:0.64rem;
+    color:rgb(22, 22, 22);
+}
+/* page4*/
+#page4{
+    background: url(../images/page3.jpg) center center no-repeat;
+    background-size: cover;
+}
+#page4{
+    position: relative;
+}
+#page4>img{
+    position: absolute;
+}
+.fenghuang{
+    width:2.16rem;
+    height:2.88rem;
+    top:2.6rem;
+    left:1rem; 
+}
+.tushu{
+    width:2.6rem;
+    height:1.93rem;
+    bottom:2.6rem;
+    left:1rem;   
+}
+.tuzi{
+    width:2.16rem;
+    height:2.88rem;
+    top:2.6rem;
+    right:0.8rem;
+}
+.fengche{
+    width:2.43rem;
+    height:1.8rem;
+    top:6.2rem;
+    left:1rem; 
+}
+.fengjing{
+    width:2.2rem;
+    height:2rem;
+    top:6.2rem;
+    right:0.8rem; 
+}
+.erciyuan{
+    width:2.16rem;
+    height:1.62rem;
+    bottom:2.6rem;
+    right:0.8rem; 
+}
+/* page5 */
+#page5{
+    background: url(../images/page3.jpg) center center no-repeat;
+    background-size: cover;
+}
+#page5{
+    position: relative;
+}
+#page5>img{
+    position: absolute;
+}
+.jiqimao{
+    width:2.31rem;
+    height:3rem;
+    bottom:2.2rem;
+    left:1.2rem;
+}
+.tizi{
+    width:2.1rem;
+    height:3.51rem;
+    top:3rem;
+    right:1.2rem;  
+}
+.xiezi{
+    width:2.64rem;
+    height:3.75rem;
+    top:3rem;
+    left:1.2rem; 
+}
+.che{
+    width:2.4rem;
+    height:1.8rem;
+    bottom:2.6rem;
+    right:1.2rem; 
+}
+
+/* page7 */
+#page6{
+    background: url(../images/page3.jpg) center center no-repeat;
+    background-size: cover;
+}
+#page6{
+    position: relative;
+}
+#page6>img{
+    position: absolute;
+}
+
+.fangzhitu{
+    width:4.74rem;
+    height:3.12rem;
+    top:2rem;
+    left:1.4rem; 
+}
+.zhe{
+    width:4.74rem;
+    height:3.12rem;
+    bottom:1.1rem;
+    left:1.4rem; 
+}
+.diqiu{
+    width:4.75rem;
+    height:3.5rem;
+    top:5.4rem;
+    left:1.5rem; 
+  
+}
+
+/* page8 */
+#page8{
+    background: url(../images/page3.jpg) center center no-repeat;
+    background-size: cover;
+}
+#page8{
+    position: relative;
+}
+#page8>img{
+    position: absolute;
+}
+.chuangyi{
+    width:2.85rem;
+    height:1.93rem;
+    top:2.5rem;
+    left:2.2rem; 
+}
+.jiaqi{
+    width:3.68rem;
+    height:1.44rem;
+    top:5.2rem;
+    left:1.8rem; 
+}
+.shengdan{
+    width:3.72rem;
+    height:1.62rem;
+    bottom:4.4rem;
+    left:2rem; 
+}
+.yanmeiquan{
+    width:2.6rem;
+    height:1.7rem;
+    bottom:2rem;
+    left:2.5rem; 
+}
+/* page9 */
+#page9{
+    background: url(../images/page3.jpg) center center no-repeat;
+    background-size: cover;
+}
+#page9{
+    position: relative;
+}
+#page9>img{
+    position: absolute;
+}
+.haibao1{
+    width:3.72rem;
+    height:5.27rem;
+    top:2.2rem;
+    left:1rem; 
+}
+.haibao2{
+    width:3.72rem;
+    height:5.27rem;
+    bottom:1rem;
+    right:1rem; 
+}
+/* page10 */
+#page10{
+    background: url(../images/page3.jpg) center center no-repeat;
+    background-size: cover;
+}
+#page10{
+    position: relative;
+}
+#page10>img{
+    position: absolute;
+}
+.biaoqing{
+    width:4.88rem;
+    height:3.64rem;
+    top:4.4rem;
+    left:1.5rem; 
+}
+/* page11 */
+#page11{
+    background: url(../images/page3.jpg) center center no-repeat;
+    background-size: cover;
+}
+#page11{
+    position: relative;
+}
+#page11>img{
+    position: absolute;
+}
+.bingxi{
+    width:5.76rem;
+    height:4.32rem;
+    top:4.4rem;
+    left:1rem; 
+}
+#page12{
+    background: url(../images/page2.jpg) center center no-repeat;
+    background-size: cover;
+}
+#page12{
+    position: relative;
+}
+#page12>img{
+    position: absolute;
+}
+.ren{
+    width:4.28rem;
+    height:6.28rem;
+    top:2em;
+    left:2rem; 
+}
+.ganxie{ 
+font-size: 0.8rem;
+left: 2.2rem;
+bottom:3em;
+position: absolute;
+}
+.music{
+   animation: music 2s linear infinite;
+}
+#next{
+    width: 0.5rem;
+    height: 0.4rem;
+    background: url(../images/arrow.png) center center no-repeat;
+    background-size: cover;
+    bottom: 0.2rem;
+    left:50%;
+    top: auto;
+    margin-left: -0.25rem;
+    animation: fadeInUp 1s linear infinite;
+}
+@keyframes music{
+    100%{
+        transform: rotate(360deg);
+    }
+}
+@-webkit-keyframes fadeInUp {
+    from {
+      opacity: 0;
+      -webkit-transform: translate3d(0, 100%, 0);
+      transform: translate3d(0, 100%, 0);
+    }
+  
+    to {
+      opacity: 1;
+      -webkit-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0);
+    }
+  }
+  
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      -webkit-transform: translate3d(0, 100%, 0);
+      transform: translate3d(0, 100%, 0);
+    }
+  
+    to {
+      opacity: 1;
+      -webkit-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0);
+    }
+  }
+  
+  .fadeInUp {
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp;
+  }
+  @keyframes fadeInUpBig {
+    from {
+      opacity: 0;
+      -webkit-transform: translate3d(0, 2000px, 0);
+      transform: translate3d(0, 2000px, 0);
+    }
+  
+    to {
+      opacity: 1;
+    }
+}
+  @-webkit-keyframes fadeInUpBig {
+    from {
+      opacity: 0;
+      -webkit-transform: translate3d(0, 2000px, 0);
+      transform: translate3d(0, 2000px, 0);
+    }
+  
+    to {
+      opacity: 1;
+      -webkit-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0);
+    }
+  }
+  .fadeInUpBig {
+    -webkit-animation-name: fadeInUpBig;
+    animation-name: fadeInUpBig;
+  }
+  
